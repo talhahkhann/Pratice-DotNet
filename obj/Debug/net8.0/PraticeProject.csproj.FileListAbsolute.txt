@@ -28,3 +28,4 @@
 /home/haris/Desktop/PraticeProject/obj/Debug/net8.0/PraticeProject.pdb
 /home/haris/Desktop/PraticeProject/obj/Debug/net8.0/PraticeProject.genruntimeconfig.cache
 /home/haris/Desktop/PraticeProject/obj/Debug/net8.0/ref/PraticeProject.dll
+/home/haris/Desktop/PraticeProject/obj/Debug/net8.0/PraticeProject.sourcelink.json
